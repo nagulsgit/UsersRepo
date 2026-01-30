@@ -17,7 +17,7 @@
 	<description>User Details Applicaton</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 		<!--<start-class>com.infosys.InfosysMainApplication</start-class>-->
 	</properties>
 
